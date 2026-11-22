@@ -1,1 +1,0 @@
-It is a Deep-Learning based Social Media Trend Analyzer. I tend to classify the data from twitter whether it is going to be a trend or not based on historical data. I used Long Short Term Memory for this project along with Random Forest. I evaluated performance too.
